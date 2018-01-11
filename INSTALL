@@ -1,0 +1,9 @@
+Building Obamacoin
+
+See doc/readme-qt.rst for instructions on building Obamacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Obamacoin.
+
+See doc/build-*.txt for instructions on building obamacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Obamacoin.
